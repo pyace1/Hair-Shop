@@ -23,6 +23,10 @@ body {
     background: var(--green);
     transition: var(--transition);
 }
+.underline {
+    border: 1px solid var(--green);
+    width: 20%;
+}
 
 /******** NAVIGATION ********/
 
@@ -75,4 +79,20 @@ body {
 .welcome .col-md-4:last-child span {
     font-weight: bold;
 }
+
+/******** featuredServices ********/
+
+.featuredServices i {
+    color: var(--green);
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+
+
+
+
+
+
+
 
