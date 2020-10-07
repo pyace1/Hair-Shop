@@ -110,10 +110,28 @@ experience
     height:70vh;
 }
 
+/************ 
+footer 
+************/
 
-
-
-
+footer {
+    color: gray;
+}
+footer a {
+    color: gray;
+}
+footer a:hover {
+    color: var(--green);
+}
+footer .col-md-2 .pb {
+    margin-top: 35px;
+}
+footer button {
+    position: relative;
+    top: -2px;
+    left: -5px;
+    border-radius: 0 !important;
+}
 
 
 
