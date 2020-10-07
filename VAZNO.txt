@@ -1,1 +1,9 @@
 1. 9-ti minut - ml-auto( odvajanje leve od desne strane navigacije...tj. logoa od liste
+2. 46-ti minut Linija ispod naslova Featured Services
+	manipulacija underline linijom kroz klase u bootstrapu
+3. 1:11:45 centriranje elemenata medjusobno po horizontalnoj osi  i pomeranje sa negativnom 
+	marginom drugog elementa u prvi
+4. 1:35 ubacuje dodatnu klasu da ni drugu listu horizontalno pozicionirao u odnosu na prvu
+5. 1:36 povecava velicinu input prostora sa clasom padinga
+6. 1:44 stavlja prazne offset kolone ispred radne kolone koju punimo
+7. 1:56 fixira hamburger meni samo u responsivu
